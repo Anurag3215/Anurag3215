@@ -14,6 +14,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=Anurag3215&style=for-the-badge&color=00F5FF&labelColor=050816&label=SYSTEM+ACCESSED" />
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Anurag3215/Anurag3215/main/assets/particles-banner.svg" width="100%"/>
+
+<br>
+
+<a href="https://anurag3215.github.io/anurag3215-3d/">
+  <img src="https://img.shields.io/badge/🌐_ENTER_THE_3D_INTERFACE-0D1117?style=for-the-badge&labelColor=050816&color=00F5FF" />
+</a>
+
 </div>
 
 <br>
