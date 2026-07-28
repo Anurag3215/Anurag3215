@@ -33,16 +33,14 @@
 <tr>
 <td width="60%" valign="top">
 
-```js
-const anurag = {
-  role: ["MERN Stack Developer", "AngularJS Developer"],
-  passion: "Cybersecurity & Ethical Hacking",
-  currentFocus: "Building secure, scalable web apps",
-  exploring: ["AI", "Open Source", "System Design"],
-  mindset: () => "Learn. Build. Secure. Ship.",
-  status: "🟢 online — always shipping"
-};
-```
+<table>
+<tr><td width="30%">🛰️ &nbsp;<b>ROLE</b></td><td>MERN Stack Developer · AngularJS Developer</td></tr>
+<tr><td>🔐 &nbsp;<b>PASSION</b></td><td>Cybersecurity & Ethical Hacking</td></tr>
+<tr><td>🎯 &nbsp;<b>CURRENT FOCUS</b></td><td>Building secure, scalable web apps</td></tr>
+<tr><td>🧠 &nbsp;<b>EXPLORING</b></td><td>AI · Open Source · System Design</td></tr>
+<tr><td>⚡ &nbsp;<b>MINDSET</b></td><td>Learn → Build → Secure → Ship</td></tr>
+<tr><td>🟢 &nbsp;<b>STATUS</b></td><td>Online — always shipping</td></tr>
+</table>
 
 - 🛰️ Full-stack development with the **MERN** stack + **AngularJS**
 - 🔐 Deep-diving into **cybersecurity** — networks, OWASP, ethical hacking
