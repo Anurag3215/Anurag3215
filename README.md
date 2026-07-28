@@ -1,43 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Anurag%20T%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF00E6,50:8A2BE2,100:00F0FF&height=260&section=header&text=ANURAG.EXE&fontSize=70&fontColor=0D0D0D&animation=twinkling&fontAlignY=38&desc=%3E%20SYSTEM.INIT%20...%20ACCESS_GRANTED&descAlignY=58&descAlign=50&fontFamily=monospace" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;AngularJS+Engineer;Cybersecurity+Enthusiast;Building+Agentic+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+NEURAL_LINK...;%3E+LOADING+MERN_STACK.dll;%3E+COMPILING+ANGULARJS_CORE;%3E+CYBERSECURITY+PROTOCOLS%3A+ACTIVE;%3E+AGENTIC_AI.exe+RUNNING..." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Anurag3215&style=for-the-badge&color=00f5d4&label=VISITORS" />
+![Visitors](https://komarev.com/ghpvc/?username=Anurag3215&style=for-the-badge&color=FF00E6&label=NODES+CONNECTED)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0D0D0D)
+![Access](https://img.shields.io/badge/ACCESS-ROOT-8A2BE2?style=for-the-badge&labelColor=0D0D0D)
 
 </div>
 
 <br/>
 
-## 🧑‍💻 About Me
+```ansi
+[0;35m╔══════════════════════════════════════════════════════════╗[0m
+[0;36m║  root@anurag3215:~$ whoami                                 ║[0m
+[0;36m║  > Full-Stack Developer | Cybersecurity Runner              ║[0m
+[0;36m║  > Location: The Grid                                       ║[0m
+[0;36m║  > Clearance: MERN_STACK // ANGULARJS // AI_AGENTS          ║[0m
+[0;35m╚══════════════════════════════════════════════════════════╝[0m
+```
+
+## `>_` DECRYPTED PROFILE
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
 ```yaml
-Name:          Anurag T S
-Role:          Full-Stack Developer
-Focus Areas:   MERN Stack · AngularJS · Cybersecurity
-Currently:     Exploring Agentic AI & Secure App Architecture
-Learning:      Ethical Hacking · Network Security · DevSecOps
-Fun Fact:      I debug faster with a cup of coffee ☕
-```
+[IDENTITY]
+codename:      Anurag T S
+handle:        Anurag3215
+class:         Full-Stack Developer
+faction:       MERN Stack // AngularJS
 
-- 🔭 Building full-stack apps with **MongoDB · Express · React · Node.js**
-- 🎨 Also crafting dynamic UIs with **AngularJS**
-- 🛡️ Deepening my knowledge of **Cybersecurity** — secure coding, network defense, ethical hacking
-- 🤖 Experimenting with **Agentic AI** for automation (resume screening, smart assistants)
-- 📚 Constantly learning new frameworks & security best practices
-- 💬 Ask me about React, Node, Angular, REST APIs, or Python automation
+[ACTIVE_PROCESSES]
+proc_01:       Building secure full-stack apps
+proc_02:       Reverse-engineering cybersecurity concepts
+proc_03:       Deploying Agentic AI automations
+proc_04:       Debugging reality, one bug at a time
+
+[CORE_DIRECTIVE]
+>> Ship clean code. Break nothing. Secure everything.
+```
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/wave.gif" width="0" height="0"/>
+<img src="https://media.giphy.com/media/SRO0ZwmImic0/giphy.gif" width="100%" style="border-radius:8px;"/>
 
 </td>
 </tr>
@@ -45,19 +58,19 @@ Fun Fact:      I debug faster with a cup of coffee ☕
 
 ---
 
-## ⚙️ Tech Arsenal
+## `>_` TECH STACK // LOADED MODULES
 
 <div align="center">
 
-**Frontend**
+**[ FRONTEND_LAYER ]**
 
 <img src="https://skillicons.dev/icons?i=react,angularjs,html,css,js,tailwind&theme=dark" />
 
-**Backend & Database**
+**[ BACKEND_LAYER ]**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,postman&theme=dark" />
 
-**Security & Tools**
+**[ SECURITY_LAYER ]**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,bash,wireshark,vscode&theme=dark" />
 
@@ -65,67 +78,74 @@ Fun Fact:      I debug faster with a cup of coffee ☕
 
 ---
 
-## 🚀 Featured Projects
+## `>_` DEPLOYED PROJECTS
 
 <div align="center">
 
 <a href="https://github.com/Anurag3215/AcuRecruit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=AcuRecruit&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=AcuRecruit&theme=synthwave&hide_border=true" />
 </a>
 <a href="https://github.com/Anurag3215/Voice-Based-Transport-Enquiry">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=Voice-Based-Transport-Enquiry&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=Voice-Based-Transport-Enquiry&theme=synthwave&hide_border=true" />
 </a>
 
 <a href="https://github.com/Anurag3215/library-react-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=library-react-app&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=library-react-app&theme=synthwave&hide_border=true" />
 </a>
 <a href="https://github.com/Anurag3215/employee-react-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=employee-react-app&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=employee-react-app&theme=synthwave&hide_border=true" />
 </a>
 
 </div>
 
-| 🔗 Project | 💡 What it does | 🧱 Stack |
-|---|---|---|
-| **AcuRecruit** | AI-powered resume screening & interview assistant — automates JD matching, candidate scoring & ranking using Agentic AI | Python, AI Agents |
-| **Voice-Based-Transport-Enquiry** | Get real-time transport schedules & routes via voice commands | HTML, JS |
-| **library-react-app** | Full-featured library management system | React.js |
-| **employee-react-app** | Employee records & management dashboard | React.js |
-| **product-new-react-appp** | Product catalog & inventory management | React.js |
+```diff
++ [AcuRecruit]         AI resume screening & interview agent // Agentic AI // Python
++ [Voice-Transport]    Voice-command transit lookup system   // HTML/JS
++ [library-react-app]  Library management terminal           // React.js
++ [employee-react-app] Employee database interface            // React.js
++ [product-react-app]  Inventory control system                // React.js
+```
 
 ---
 
-## 📊 GitHub Analytics
+## `>_` SYSTEM DIAGNOSTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anurag3215&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag3215&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anurag3215&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag3215&theme=synthwave&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag3215&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag3215&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag3215&layout=compact&theme=synthwave&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag3215&theme=synthwave&hide_border=true&bg_color=0D0D0D&color=00F0FF&line=FF00E6&point=8A2BE2" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## `>_` ACHIEVEMENT LOG
 
 <div align="center">
-<img src="https://img.shields.io/badge/Pull%20Shark-x2-blueviolet?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/YOLO%20Contributor-orange?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/PULL_SHARK-x2-FF00E6?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/YOLO_PROTOCOL-8A2BE2?style=for-the-badge&labelColor=0D0D0D"/>
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## `>_` OPEN CHANNEL // CONNECT
 
 <div align="center">
 
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Anurag3215"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-00F0FF?style=for-the-badge&logo=gmail&logoColor=0D0D0D&labelColor=0D0D0D"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-FF00E6?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=0D0D0D"/></a>
+<a href="https://github.com/Anurag3215"><img src="https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=0D0D0D&labelColor=0D0D0D"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+<div align="center">
+
+`>> CONNECTION TERMINATED. LOGGING OUT... [OK]`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F0FF,50:8A2BE2,100:FF00E6&height=120&section=footer&reversal=true" width="100%"/>
