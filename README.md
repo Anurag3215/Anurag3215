@@ -1,154 +1,210 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0000,50:8B0000,100:FF0000&height=260&section=header&text=ANURAG.EXE&fontSize=70&fontColor=FF0000&animation=twinkling&fontAlignY=38&desc=%3E%20GRID%20PROTOCOL%20...0%20DEREZZED&descAlignY=58&descAlign=50&fontFamily=monospace" width="100%"/>
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:000000&height=220&section=header&text=Hi%20There,%20I'm%20Your%20Name&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=750&lines=%3E+ENTERING+THE+GRID...;%3E+LOADING+MERN_STACK.dll;%3E+COMPILING+ANGULARJS_CORE;%3E+CYBERSECURITY+PROTOCOLS%3A+ACTIVE;%3E+AGENTIC_AI.exe+RUNNING..." alt="Typing SVG" />
+<!-- SOCIAL BADGES -->
+<p>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red" />
+  </a>
+  <a href="mailto:you@example.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=red" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=red" />
+  </a>
+</p>
 
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=Anurag3215&style=for-the-badge&color=FF0000&label=NODES+CONNECTED&labelColor=0D0000)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-FF0000?style=for-the-badge&labelColor=0D0000)
-![Access](https://img.shields.io/badge/ACCESS-ROOT-8B0000?style=for-the-badge&labelColor=0D0000)
+<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=8b0000&labelColor=000000" />
 
 </div>
 
-<br/>
+<br>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  root@anurag3215:~$ whoami                                 ║
-║  > Full-Stack Developer | Cybersecurity Runner              ║
-║  > Location: The Grid                                       ║
-║  > Clearance: MERN_STACK // ANGULARJS // AI_AGENTS          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-## `>_` DECRYPTED PROFILE
-
-<table>
+<!-- ABOUT SECTION - LinkedIn style card -->
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="70%" valign="top">
+
+## 🩸 About Me
 
 ```yaml
-[IDENTITY]
-codename:      Anurag T S
-handle:        Anurag3215
-class:         Full-Stack Developer
-faction:       MERN Stack // AngularJS
-
-[ACTIVE_PROCESSES]
-proc_01:       Building secure full-stack apps
-proc_02:       Reverse-engineering cybersecurity concepts
-proc_03:       Deploying Agentic AI automations
-proc_04:       Debugging reality, one bug at a time
-
-[CORE_DIRECTIVE]
->> Ship clean code. Break nothing. Secure everything.
+name: "Your Name"
+role: "Full Stack Developer"
+location: "Your City, Country"
+current_focus: "Building scalable web applications"
+learning: "System Design & Cloud Architecture"
+fun_fact: "I debug faster with dark mode + red highlights"
 ```
 
-</td>
-<td width="40%" valign="top" align="center">
+- 🔭 Currently working on **Project Name**
+- 🌱 Learning **Next.js, Docker, Kubernetes**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, Python**
+- ⚡ Fun fact: I turn coffee into code ☕→💻
 
-<img src="https://media.giphy.com/media/xUOxfjsdBt7HZ2Ta4Q/giphy.gif" width="100%" style="border-radius:8px;" alt="grid animation"/>
+</td>
+<td width="30%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=8b0000&count_private=true" width="100%"/>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## `>_` TECH STACK // LOADED MODULES
+<!-- EXPERIENCE - LinkedIn timeline style -->
+## 🖤 Experience
+
+<table width="100%">
+<tr>
+<td width="10%" align="center">🔴</td>
+<td width="90%">
+
+**Senior Developer** — Company Name  
+*Jan 2023 — Present*  
+Building and leading development of core platform features using React, Node.js, and AWS.
+
+</td>
+</tr>
+<tr>
+<td width="10%" align="center">🔴</td>
+<td width="90%">
+
+**Software Engineer** — Previous Company  
+*Jun 2021 — Dec 2022*  
+Developed and maintained microservices architecture serving 1M+ users.
+
+</td>
+</tr>
+<tr>
+<td width="10%" align="center">🔴</td>
+<td width="90%">
+
+**Junior Developer** — First Company  
+*Jan 2020 — May 2021*  
+Started my journey building internal tools and dashboards.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- SKILLS SECTION -->
+## ⚙️ Skills & Technologies
 
 <div align="center">
 
-**[ FRONTEND_LAYER ]**
+### Languages
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=red)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=red)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=red)
 
-<img src="https://skillicons.dev/icons?i=react,angularjs,html,css,js,tailwind&theme=dark" alt="frontend tech stack"/>
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=red)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=red)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=red)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=red)
 
-**[ BACKEND_LAYER ]**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,postman&theme=dark" alt="backend tech stack"/>
-
-**[ SECURITY_LAYER ]**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,wireshark,vscode&theme=dark" alt="security and tooling stack"/>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=red)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=red)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=red)
 
 </div>
 
----
+<br>
 
-## `>_` DEPLOYED PROJECTS
-
-<div align="center">
-
-<a href="https://github.com/Anurag3215/AcuRecruit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=AcuRecruit&theme=dracula&hide_border=true&bg_color=0D0000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" alt="AcuRecruit repo card"/>
-</a>
-<a href="https://github.com/Anurag3215/Voice-Based-Transport-Enquiry">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=Voice-Based-Transport-Enquiry&theme=dracula&hide_border=true&bg_color=0D0000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" alt="Voice-Based-Transport-Enquiry repo card"/>
-</a>
-
-<a href="https://github.com/Anurag3215/library-react-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=library-react-app&theme=dracula&hide_border=true&bg_color=0D0000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" alt="library-react-app repo card"/>
-</a>
-<a href="https://github.com/Anurag3215/employee-react-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=employee-react-app&theme=dracula&hide_border=true&bg_color=0D0000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" alt="employee-react-app repo card"/>
-</a>
-
-<a href="https://github.com/Anurag3215/product-react-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=product-react-app&theme=dracula&hide_border=true&bg_color=0D0000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" alt="product-react-app repo card"/>
-</a>
-
-</div>
-
-```diff
-+ [AcuRecruit]         AI resume screening & interview agent // Agentic AI // Python
-+ [Voice-Transport]    Voice-command transit lookup system   // HTML/JS
-+ [library-react-app]  Library management terminal           // React.js
-+ [employee-react-app] Employee database interface            // React.js
-+ [product-react-app]  Inventory control system                // React.js
-```
-
----
-
-## `>_` SYSTEM DIAGNOSTICS
+<!-- GITHUB STATS - LinkedIn card grid style -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anurag3215&show_icons=true&theme=dracula&hide_border=true&bg_color=0D0000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&count_private=true&include_all_commits=true" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag3215&theme=dracula&hide_border=true&background=0D0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="48%" alt="GitHub streak stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag3215&layout=compact&theme=dracula&hide_border=true&bg_color=0D0000&title_color=FF0000&text_color=FFFFFF" width="48%" alt="Top languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag3215&theme=react-dark&hide_border=true&bg_color=0D0000&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=8B0000" width="100%" alt="Contribution activity graph"/>
-
-</div>
-
----
-
-## `>_` ACHIEVEMENT LOG
-
-<div align="center">
-<img src="https://img.shields.io/badge/PULL_SHARK-x2-FF0000?style=for-the-badge&labelColor=0D0000"/>
-<img src="https://img.shields.io/badge/YOLO_PROTOCOL-8B0000?style=for-the-badge&labelColor=0D0000"/>
-</div>
-
----
-
-## `>_` OPEN CHANNEL // CONNECT
-
-<div align="center">
-
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=0D0000&labelColor=0D0000"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-FF0000?style=for-the-badge&logo=linkedin&logoColor=0D0000&labelColor=0D0000"/></a>
-<a href="https://github.com/Anurag3215"><img src="https://img.shields.io/badge/GITHUB-8B0000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D0000"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff&langs_count=8" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true&background=000000&ring=8B0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="48%"/>
 
 </div>
 
 <div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=000000&color=ff0000&line=8b0000&point=ffffff&area=true&hide_border=true" width="98%"/>
+</div>
 
-`>> CONNECTION TERMINATED. DEREZZING... [OK]`
+<br>
+
+<!-- FEATURED PROJECTS - LinkedIn "Featured" section style -->
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+### 🔺 [Project One](https://github.com/yourusername/project-one)
+A brief description of what this project does and the impact it had.
+
+`React` `Node.js` `MongoDB`
+
+</td>
+<td width="50%">
+
+### 🔺 [Project Two](https://github.com/yourusername/project-two)
+A brief description of what this project does and the impact it had.
+
+`Python` `Flask` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔺 [Project Three](https://github.com/yourusername/project-three)
+A brief description of what this project does and the impact it had.
+
+`TypeScript` `Next.js` `Tailwind`
+
+</td>
+<td width="50%">
+
+### 🔺 [Project Four](https://github.com/yourusername/project-four)
+A brief description of what this project does and the impact it had.
+
+`Docker` `Kubernetes` `AWS`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- CONTRIBUTION GRAPH -->
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=000000&color=ff0000&line=8b0000&point=ffffff" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0000,50:8B0000,100:0D0000&height=120&section=footer&reversal=true" width="100%"/>
+<br>
+
+<!-- FOOTER -->
+<div align="center">
+
+### 💬 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:1a0000&height=120&section=footer" width="100%"/>
+
+<sub>⭐ From [yourusername](https://github.com/yourusername) — Thanks for stopping by!</sub>
+
+</div>
