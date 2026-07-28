@@ -14,13 +14,13 @@
 
 <br/>
 
-```ansi
-[0;35m╔══════════════════════════════════════════════════════════╗[0m
-[0;36m║  root@anurag3215:~$ whoami                                 ║[0m
-[0;36m║  > Full-Stack Developer | Cybersecurity Runner              ║[0m
-[0;36m║  > Location: The Grid                                       ║[0m
-[0;36m║  > Clearance: MERN_STACK // ANGULARJS // AI_AGENTS          ║[0m
-[0;35m╚══════════════════════════════════════════════════════════╝[0m
+```
+╔══════════════════════════════════════════════════════════╗
+║  root@anurag3215:~$ whoami                                 ║
+║  > Full-Stack Developer | Cybersecurity Runner              ║
+║  > Location: The Grid                                       ║
+║  > Clearance: MERN_STACK // ANGULARJS // AI_AGENTS          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 ## `>_` DECRYPTED PROFILE
@@ -49,8 +49,7 @@ proc_04:       Debugging reality, one bug at a time
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/wave.gif" width="0" height="0"/>
-<img src="https://media.giphy.com/media/SRO0ZwmImic0/giphy.gif" width="100%" style="border-radius:8px;"/>
+<img src="https://media.giphy.com/media/SRO0ZwmImic0/giphy.gif" width="100%" style="border-radius:8px;" alt="coding animation"/>
 
 </td>
 </tr>
@@ -64,15 +63,15 @@ proc_04:       Debugging reality, one bug at a time
 
 **[ FRONTEND_LAYER ]**
 
-<img src="https://skillicons.dev/icons?i=react,angularjs,html,css,js,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,angularjs,html,css,js,tailwind&theme=dark" alt="frontend tech stack"/>
 
 **[ BACKEND_LAYER ]**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,postman&theme=dark" alt="backend tech stack"/>
 
 **[ SECURITY_LAYER ]**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,wireshark,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,wireshark,vscode&theme=dark" alt="security and tooling stack"/>
 
 </div>
 
@@ -83,17 +82,21 @@ proc_04:       Debugging reality, one bug at a time
 <div align="center">
 
 <a href="https://github.com/Anurag3215/AcuRecruit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=AcuRecruit&theme=synthwave&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=AcuRecruit&theme=synthwave&hide_border=true" alt="AcuRecruit repo card"/>
 </a>
 <a href="https://github.com/Anurag3215/Voice-Based-Transport-Enquiry">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=Voice-Based-Transport-Enquiry&theme=synthwave&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=Voice-Based-Transport-Enquiry&theme=synthwave&hide_border=true" alt="Voice-Based-Transport-Enquiry repo card"/>
 </a>
 
 <a href="https://github.com/Anurag3215/library-react-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=library-react-app&theme=synthwave&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=library-react-app&theme=synthwave&hide_border=true" alt="library-react-app repo card"/>
 </a>
 <a href="https://github.com/Anurag3215/employee-react-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=employee-react-app&theme=synthwave&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=employee-react-app&theme=synthwave&hide_border=true" alt="employee-react-app repo card"/>
+</a>
+
+<a href="https://github.com/Anurag3215/product-react-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag3215&repo=product-react-app&theme=synthwave&hide_border=true" alt="product-react-app repo card"/>
 </a>
 
 </div>
@@ -112,12 +115,12 @@ proc_04:       Debugging reality, one bug at a time
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anurag3215&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag3215&theme=synthwave&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anurag3215&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag3215&theme=synthwave&hide_border=true" width="48%" alt="GitHub streak stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag3215&layout=compact&theme=synthwave&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag3215&layout=compact&theme=synthwave&hide_border=true" width="48%" alt="Top languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag3215&theme=synthwave&hide_border=true&bg_color=0D0D0D&color=00F0FF&line=FF00E6&point=8A2BE2" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag3215&theme=synthwave&hide_border=true&bg_color=0D0D0D&color=00F0FF&line=FF00E6&point=8A2BE2" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
@@ -126,8 +129,8 @@ proc_04:       Debugging reality, one bug at a time
 ## `>_` ACHIEVEMENT LOG
 
 <div align="center">
-<img src="https://img.shields.io/badge/PULL_SHARK-x2-FF00E6?style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/YOLO_PROTOCOL-8A2BE2?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/PULL_SHARK-x2-FF00E6?style=for-the-badge&labelColor=0D0D0D" alt="Pull Shark x2 badge"/>
+<img src="https://img.shields.io/badge/YOLO_PROTOCOL-8A2BE2?style=for-the-badge&labelColor=0D0D0D" alt="YOLO badge"/>
 </div>
 
 ---
@@ -136,9 +139,9 @@ proc_04:       Debugging reality, one bug at a time
 
 <div align="center">
 
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-00F0FF?style=for-the-badge&logo=gmail&logoColor=0D0D0D&labelColor=0D0D0D"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-FF00E6?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=0D0D0D"/></a>
-<a href="https://github.com/Anurag3215"><img src="https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=0D0D0D&labelColor=0D0D0D"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-00F0FF?style=for-the-badge&logo=gmail&logoColor=0D0D0D&labelColor=0D0D0D" alt="Email"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-FF00E6?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=0D0D0D" alt="LinkedIn"/></a>
+<a href="https://github.com/Anurag3215"><img src="https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=0D0D0D&labelColor=0D0D0D" alt="GitHub"/></a>
 
 </div>
 
