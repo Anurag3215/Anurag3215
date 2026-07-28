@@ -119,3 +119,125 @@
     &gt; particle field online — status: <tspan fill="#39FF14">active</tspan>
   </text>
 </svg>
+
+
+
+
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#050816"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F5FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00F5FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8A2BE2" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#8A2BE2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF007F" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FF007F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGreen" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#39FF14" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#39FF14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="180" fill="url(#bg)"/>
+
+  <rect x="0" y="0" width="1200" height="2" fill="#00F5FF" opacity="0.6">
+    <animate attributeName="y" values="0;178;0" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <g>
+    <circle cx="80" cy="40" r="3" fill="#00F5FF">
+      <animate attributeName="cy" values="40;150;40" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="80" cy="40" r="14" fill="url(#glowCyan)">
+      <animate attributeName="cy" values="40;150;40" dur="9s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="180" cy="120" r="2.5" fill="#8A2BE2">
+      <animate attributeName="cy" values="120;20;120" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="180" cy="120" r="12" fill="url(#glowPurple)">
+      <animate attributeName="cy" values="120;20;120" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="300" cy="60" r="3" fill="#FF007F">
+      <animate attributeName="cy" values="60;160;60" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="60" r="15" fill="url(#glowPink)">
+      <animate attributeName="cy" values="60;160;60" dur="8s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="420" cy="140" r="2" fill="#39FF14">
+      <animate attributeName="cy" values="140;30;140" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="420" cy="140" r="11" fill="url(#glowGreen)">
+      <animate attributeName="cy" values="140;30;140" dur="10s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="540" cy="50" r="3" fill="#00F5FF">
+      <animate attributeName="cy" values="50;170;50" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="540" cy="50" r="13" fill="url(#glowCyan)">
+      <animate attributeName="cy" values="50;170;50" dur="11s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="660" cy="130" r="2.5" fill="#8A2BE2">
+      <animate attributeName="cy" values="130;20;130" dur="8.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="660" cy="130" r="12" fill="url(#glowPurple)">
+      <animate attributeName="cy" values="130;20;130" dur="8.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="780" cy="70" r="3" fill="#FF007F">
+      <animate attributeName="cy" values="70;160;70" dur="7.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="780" cy="70" r="14" fill="url(#glowPink)">
+      <animate attributeName="cy" values="70;160;70" dur="7.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="900" cy="150" r="2" fill="#00F5FF">
+      <animate attributeName="cy" values="150;40;150" dur="9.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="150" r="12" fill="url(#glowCyan)">
+      <animate attributeName="cy" values="150;40;150" dur="9.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1020" cy="45" r="3" fill="#39FF14">
+      <animate attributeName="cy" values="45;155;45" dur="10.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1020" cy="45" r="13" fill="url(#glowGreen)">
+      <animate attributeName="cy" values="45;155;45" dur="10.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1140" cy="110" r="2.5" fill="#8A2BE2">
+      <animate attributeName="cy" values="110;30;110" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1140" cy="110" r="12" fill="url(#glowPurple)">
+      <animate attributeName="cy" values="110;30;110" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="600" y="98" font-family="monospace" font-size="20" fill="#F8FAFC" text-anchor="middle" opacity="0.85">
+    &gt; particle field online — status: <tspan fill="#39FF14">active</tspan>
+  </text>
+</svg>
