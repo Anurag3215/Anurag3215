@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0000,50:8B0000,100:FF0000&height=260&section=header&text=ANURAG.EXE&fontSize=70&fontColor=FF0000&animation=twinkling&fontAlignY=38&desc=%3E%20GRID%20PROTOCOL%20...%20DEREZZED&descAlignY=58&descAlign=50&fontFamily=monospace" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0000,50:8B0000,100:FF0000&height=260&section=header&text=ANURAG.EXE&fontSize=70&fontColor=FF0000&animation=twinkling&fontAlignY=38&desc=%3E%20GRID%20PROTOCOL%20...0%20DEREZZED&descAlignY=58&descAlign=50&fontFamily=monospace" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=750&lines=%3E+ENTERING+THE+GRID...;%3E+LOADING+MERN_STACK.dll;%3E+COMPILING+ANGULARJS_CORE;%3E+CYBERSECURITY+PROTOCOLS%3A+ACTIVE;%3E+AGENTIC_AI.exe+RUNNING..." alt="Typing SVG" />
 
